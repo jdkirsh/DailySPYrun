@@ -1,0 +1,6 @@
+Sep/27/2016 - DailyOICollectorFunc run fine-Done
+- in Main: make func that backup the daily file load -Done
+- Call DailyOICollect- Done
+- Make tableDFlloader a func
+- fix myDirname = os.path.normpath("c:/aDirname/") in the cfg file
+- Call tableDFlloader
